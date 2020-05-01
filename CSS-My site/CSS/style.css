@@ -1,0 +1,165 @@
+body {
+  background-color: #BCE0FD;
+  margin: 0;
+  display: grid;
+  padding-top: 10%;
+
+}
+hr{
+      border-color: black;
+      border-style: dotted none none ;
+      background-color: #BCE0FD;
+      border-width: 6px;
+      width: 8%;
+        }
+  .name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+    color: #0d47a1;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+
+
+  }
+
+  .tagline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+    color: #0d47a1;
+    font-family: "Courier New", Courier, monospace;
+    position: relative;
+  }
+
+  .top-cloud {
+    display: block;
+    background-color: #BCE0FD;
+    position: absolute;
+    left: 1000px;
+    top: 50px;
+  }
+
+  .bottom-cloud {
+    display: flex;
+    background-color: #BCE0FD;
+    position:absolute;
+    left: 300px;
+  }
+
+  .mountain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #BCE0FD;
+
+  }
+  .line1{
+    display: inline-block;
+    position: relative;
+  }
+  .profilePic {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+  }
+
+  .hello {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+  }
+
+  .about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+  }
+.line2{
+  display: inline-block;
+  position: relative;
+}
+  .Qlogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+  }
+
+  .qual {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+  }
+
+  .Qtable {
+    display: inline-block;
+    position: relative;
+    background-color: #BCE0FD;
+  }
+.line3{
+  display: inline-block;
+  position: relative;
+}
+.line4{
+  display: inline-block;
+  position: relative;
+
+}
+  .CLogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+
+  }
+
+  .contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+  }
+
+  .CTable {
+    display: inline-block;
+    position: relative;
+    background-color: #BCE0FD;
+  }
+.line5{
+  display: inline-block;
+  position: relative;
+}
+  .instaLogo {
+    display: inline-block;
+    position: relative;
+    background-color: #BCE0FD;
+    top: 20px;
+  }
+
+  .instalink {
+    display: grid;
+    position: relative;
+    background-color: #BCE0FD;
+    left: 35px;
+  }
+.line6{
+  display: inline-block;
+  position: relative;
+}
+
+
+  .last-word {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #BCE0FD;
+  }
